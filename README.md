@@ -1,3 +1,3 @@
-# CPnP-Rician-noise-removal
+# CPnP-Rician-Noise-Removal
 
-Will release code for "C-PnP Rician noise removal"
+Will release code for "Nonconvex Rician Noise Removal via Convergent Plug-and-Play Framework"
