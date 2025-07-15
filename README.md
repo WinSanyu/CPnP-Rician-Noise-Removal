@@ -21,10 +21,18 @@ cd cpnp
 pip install -r requirement.txt
 ```
 
-5. download SNDnCNN checkpoint
+5. download SNDnCNN checkpoint / dataset
 download checkpoint from
 
 链接: https://pan.baidu.com/s/1zgclkWipLdC6lt_9ohCohw?pwd=fe2m 提取码: fe2m 复制这段内容后打开百度网盘手机App，操作更方便哦
+
+Dataset SIAT_MRIdata200 comes from https://github.com/yqx7150/RicianNet
+
+You also can get the modulus images from 
+
+链接: https://pan.baidu.com/s/1hWqSAwuMNVsMwUOO-Dd0Cg?pwd=g9j8 提取码: g9j8 复制这段内容后打开百度网盘手机App，操作更方便哦
+
+
 
 
 6. run cpnp1
